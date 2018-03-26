@@ -12,7 +12,7 @@ package kulkas;
 public class kulkasaksi {
     public static void main(String[] args) {
         
-        
+        Classkulkas adrian = new Classkulkas();
         
     }
 }
