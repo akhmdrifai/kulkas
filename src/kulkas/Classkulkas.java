@@ -10,5 +10,15 @@ package kulkas;
  * @author user
  */
 public class Classkulkas {
+    String merek;
+    Integer harga;
+    String jenis;
+    String warna;
     
+    void pendingin(){
+        System.out.println("merek kulkas : "+merek);
+        System.out.println("harga kulkas : "+harga);
+        System.out.println("jenis kulkas : "+jenis);
+        System.out.println("warna kulkas : "+warna+"\n");
+    }
 }
